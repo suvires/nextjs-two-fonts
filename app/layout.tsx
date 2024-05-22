@@ -1,7 +1,7 @@
 import "./globals.css";
-import { Advent_Pro, Capriola } from "next/font/google";
+import { Advent_Pro, Raleway } from "next/font/google";
 
-const capriola = Capriola({
+const capriola = Raleway({
   subsets: ["latin"],
   weight: "400",
   variable: "--font-capriola",
